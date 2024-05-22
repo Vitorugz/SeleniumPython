@@ -1,6 +1,7 @@
 ## Está é uma simples aplicação de teste para auxiliar no uso do Selenium com Python.
 
  Caso precise relembrar de algo em selenium, este material pode te auxiliar.
+Link documentação selenium: https://www.selenium.dev/documentation/overview/
 
  Fiz este mini código totalmente comentado, informando para que serve cada linha do código, caso queira treinar, é só usar o link que esta no código, ele leva a um site feito para treinar preenchimentos de formulários
  com selenium.
