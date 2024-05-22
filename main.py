@@ -66,6 +66,6 @@ driver.find_element(By.XPATH, '//*[@id="header"]/nav/div/div[2]/ul/li[9]/ul/li[4
 driver.implicitly_wait(10)
 
 # Aqui, iremos importar um arquivo para o site. Para importarmos, precisamos apenas enviar o caminho do arquivo, para um input do tipo file
-driver.find_element(By.XPATH, '//*[@id="input-4"]').send_keys(r'C:\Users\vitor\OneDrive\Área de Trabalho\imgTest.png')
+driver.find_element(By.XPATH, '//*[@id="input-4"]').send_keys(r'C:\Caminho\Do\Arquivo')
 
 time.sleep(3)
